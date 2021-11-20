@@ -1,6 +1,6 @@
 # tree-view-vue
 
-[![npm](https://img.shields.io/npm/dt/tree-view-vue.svg?style=flat-square)](https://github.com/DefaultFreelancer/tree-view-vue)
+[![npm](https://img.shields.io/github/downloads/DefaultFreelancer/tree-view-vue/total?logo=GitHub)](https://github.com/DefaultFreelancer/tree-view-vue)
 
 [English](./README.md)
 
