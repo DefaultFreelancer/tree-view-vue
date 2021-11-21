@@ -7,7 +7,7 @@
     "tree"
   ],
   "author": "Milivoje <milivojeivic422@gmail.com>",
-  "main": "/dist/tree-view-vue.js",
+  "main": "dist/tree-view-vue.js",
   "private": false,
   "license": "MIT",
   "repository": {
