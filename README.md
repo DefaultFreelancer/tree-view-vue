@@ -1,6 +1,8 @@
 # tree-view-vue
 
 [![npm](https://img.shields.io/github/downloads/DefaultFreelancer/tree-view-vue/total?logo=GitHub)](https://github.com/DefaultFreelancer/tree-view-vue)
+![GitHub top language](https://img.shields.io/github/languages/top/DefaultFreelancer/tree-view-vue)
+![npm](https://img.shields.io/npm/dm/tree-view-vue)
 
 [English](./README.md)
 
